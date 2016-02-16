@@ -1,0 +1,1 @@
+Javaflash is a Java Projector or Player for Flash. It is a glue between Flash and Java. At the frontend, the programmer can embed Flash as a widget into the Java GUI in a platform-independent manner. And at the backend, Javaflash provides a service framework for communication between Flash and Java and for easy development of new Javaflash applications.
